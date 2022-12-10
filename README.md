@@ -14,6 +14,7 @@ Your support will be truly appreciated and feel free to contact me at my followi
 - [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
 - [Kaggle](https://www.kaggle.com/santurini)
 - ghinassi.1863151@studenti.uniroma1.it
+- 
 ## Team
 
 - Valentino Sacco: [S4b3](https://github.com/S4b3)
