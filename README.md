@@ -6,6 +6,15 @@
 
 This project was done as the final project for the **Fundamentals Of Data Science And Lab** class of Sapienza's **Data Science's Master Degree**.
 
+## Friendly Reminder
+
+If you use or take inspiration from this repository please cite with this link: [santurini/
+Sign-Language-Digits-Recognition](https://github.com/santurini/Sign-Language-Digits-Recognition)
+
+Your support will be truly appreciated and feel free to contact me at my following links or just send me an email:
+- [Linkedin](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/)
+- [Kaggle](https://www.kaggle.com/santurini)
+- ghinassi.1863151@studenti.uniroma1.it
 ## Team
 
 - Valentino Sacco: [S4b3](https://github.com/S4b3)
